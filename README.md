@@ -4,6 +4,7 @@ SR Simulade is a Free And Open Source, First Person Interactive Special Relativi
 
 Imagine what the world would look like if the speed of light was instantly changed to twice your walking speed.
 
+## Requirements
 
     sudo apt-get install mesa-common-dev
 
