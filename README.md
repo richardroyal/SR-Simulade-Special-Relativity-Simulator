@@ -6,5 +6,11 @@ Imagine what the world would look like if the speed of light was instantly chang
 
 ## Requirements
 
-    sudo apt-get install mesa-common-dev
+`sudo apt-get install mesa-common-dev freeglut3-dev libxmu-dev libxi-dev libglui-dev freeglut3-dev`
 
+## Running
+
+```
+./compile.sh
+./aberration
+```
